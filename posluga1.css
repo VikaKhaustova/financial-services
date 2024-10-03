@@ -1,0 +1,22 @@
+.descr{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+main{
+    padding: 50px;
+}
+
+.two{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.strilka2{
+    font-size: 60px;
+}

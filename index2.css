@@ -1,0 +1,332 @@
+
+body{
+    background-color: rgb(219, 219, 219);
+    /* max-width: 1010px;
+    max-height: 2194px; */
+    margin: 0px;
+    font-family: "Roboto";
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .start{
+    background-color: rgba(244, 244, 244, 1);
+    display: flex;
+    width: 1519px;
+    height: 75px;
+    }
+    
+    .ImgConsulting{
+        width: 85px;
+        height: 40px;
+        margin-right: 10px;
+    }
+    
+    .rent_img{
+        width: 1519px;
+        height: 450px;
+        position: static;
+        margin-top: 800px;
+    }
+    
+    .pro_mene{
+    text-decoration: none;
+    color: black;
+    margin-left: 400px;
+    font-size: 25px;
+    margin-top: 18px;
+    }
+    
+    .poclyku{
+        text-decoration: none;
+        color: black;
+        margin-left: 150px;
+        font-size: 25px;
+        margin-top: 18px;
+    }
+    
+    .price_2{
+        text-decoration: none;
+        color: black;
+        margin-left: 150px;
+        font-size: 25px;
+        margin-top: 18px;
+    }
+    
+    .contakt{
+        text-decoration: none;
+        color: black;
+        margin-left: 150px;
+        font-size: 25px;
+        margin-top: 18px;
+        background-color: rgba(249, 79, 83, 1);
+        border-radius: 30px;
+        width: 130px;
+        height: 33px;
+        text-align: center;
+        align-items: center;
+    }
+    
+    .poclugyText{
+        font-size: 48px;
+        display: inline-block;
+        border-bottom: red 1px solid;
+        margin-left: 380px;
+    }
+    
+    .container1{
+        display: inline-block;
+        background-color: white;
+        border-radius: 30px;
+    }
+    
+    .text_1{
+        text-decoration: none;
+        color: black;
+        font-size: 24px;
+    }
+    
+    .podval{
+        background-color: black;
+        color: white;
+        display: block;
+        padding: 20px;
+        margin-top: 30px;
+    }
+    
+    .h1_contaktu{
+        margin-left: 45px;
+        margin-top: 25px;
+        font-size: 48px;
+    }
+    
+    .email{
+        margin-left: 45px;
+        color: rgb(236, 179, 73); 
+        font-size: 25px;
+        margin-top: 65px;
+    }
+    
+    .myrhorod{
+        margin-left: 45px;
+        font-size: 25px;
+            margin-top: 55px;
+    }
+    
+    
+    .whymeText{
+        font-size: 48px;
+        margin-left: 50px;
+       
+    }
+    
+    .WhyMe{
+        margin-left: 100px;
+        font-size: 20px;
+    }
+
+    .contaktButton{
+        text-decoration: none;
+        color: white;
+        margin-left: 1100px;
+        font-size: 40px;
+        margin-top: 18px;
+        background-color: rgba(249, 79, 83, 1);
+        border-radius: 40px;
+        width: 260px;
+        height: 100px;
+        text-align: center;
+        align-items: center;
+    }
+    .section{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .zamovutu{
+        position: absolute;
+        top: 162%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+    }
+
+
+    .strilka{
+        position: absolute;
+        top: 168%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+    }
+
+    .podval{
+        background-color: black;
+        color: white;
+        display: block;
+        padding: 20px;
+       
+    }
+   
+    .h1_contaktu{
+        font-size: 48px;
+    }
+
+
+    .footer-context{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-right: 30px;
+    }
+   
+    .email{
+        color: rgb(236, 179, 73);
+        font-size: 25px;
+        margin-top: 65px;
+    }
+   
+    .myrhorod{
+        font-size: 25px;
+            margin-top: 55px;
+    }
+        
+    .card1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: white;
+        border-radius: 30px;
+        padding: 10px;
+        position: absolute;
+        top: 47%;
+        left: 20%;
+        transform: translate(-50%, -50%); 
+    }
+
+    .card2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: white;
+        border-radius: 30px;
+        padding: 10px;
+        position: absolute;
+        top: 47%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+    }
+
+    .card3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: white;
+        border-radius: 30px;
+        padding: 10px;
+        position: absolute;
+        top: 47%;
+        left: 80%;
+        transform: translate(-50%, -50%); 
+    }
+
+    .card4{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: white;
+        border-radius: 30px;
+        padding: 10px;
+        position: absolute;
+        top: 100%;
+        left: 20%;
+        transform: translate(-50%, -50%); 
+    }
+
+        .card5{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: white;
+        border-radius: 30px;
+        padding: 10px;
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+    }
+
+    .card6{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: white;
+        border-radius: 30px;
+        padding: 10px;
+        position: absolute;
+        top: 100%;
+        left: 80%;
+        transform: translate(-50%, -50%); 
+    }
+
+    .a1{
+        color: black;
+        font-size: 20px;
+    }
+    
+    .a2{
+        color: black;
+        font-size: 20px;
+    }
+    
+    .a3{
+        color: black;
+        font-size: 20px;
+    }
+    
+    .a4{
+        color: black;
+        font-size: 20px;
+        opacity: 1;
+    }
+
+    .a23{
+        color: black;
+        font-size: 20px;
+        opacity: 1; 
+        margin-left: 5px;
+    }
+
+    #themeToggle {
+        background: transparent;
+        color: black;
+        width: 40px;
+        height: 40px;
+        font-size: 25px;
+        border-radius: 40px;
+        transition: 0.4s transform linear;
+        margin: 10px;
+        border-color: transparent;
+    }
+    
+    #themeToggle:hover {
+        transform: scale(1.8);
+        transition: 0.4s transform linear;
+        box-shadow: inset 0px 0px 5px rgb(0, 0, 0);
+    }
+    
+    #themeToggle:active {
+        transform: scale(0.9);
+        transition-duration: .2s;
+    }
+
+    body {
+        background-color: white;
+        color: black;
+      }
+      
+    
+      body.dark-theme {
+        background-color: #333;
+        color: white;
+      }
+      
